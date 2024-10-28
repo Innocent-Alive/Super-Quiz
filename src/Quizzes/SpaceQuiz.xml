@@ -1,0 +1,146 @@
+<QuizML name="Space Quiz">
+  <Description>
+    This quiz tests your knowledge of space science, including planets, stars, galaxies, and space exploration.
+  </Description>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which planet is known as the Red Planet?</QuestionText>
+    <Answer name="1">Venus</Answer>
+    <Answer name="2">Mars</Answer>
+    <Answer name="3">Jupiter</Answer>
+    <Answer name="4">Saturn</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">What is the largest planet in our solar system?</QuestionText>
+    <Answer name="1">Earth</Answer>
+    <Answer name="2">Saturn</Answer>
+    <Answer name="3">Jupiter</Answer>
+    <Answer name="4">Neptune</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Which planet has a day that is longer than its year?</QuestionText>
+    <Answer name="1">Mercury</Answer>
+    <Answer name="2">Earth</Answer>
+    <Answer name="3">Jupiter</Answer>
+    <Answer name="4">Venus</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">The Moon causes tides on Earth.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What is the closest star to Earth?</QuestionText>
+    <Answer name="1">The Sun</Answer>
+    <Answer name="2">Alpha Centauri</Answer>
+    <Answer name="3">Betelgeuse</Answer>
+    <Answer name="4">Proxima Centauri</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What is the name of the first artificial satellite sent into space?</QuestionText>
+    <Answer name="1">Apollo 11</Answer>
+    <Answer name="2">Sputnik 1</Answer>
+    <Answer name="3">Voyager 1</Answer>
+    <Answer name="4">Luna 2</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">Saturn is the only planet with rings.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What is the shape of the Milky Way galaxy?</QuestionText>
+    <Answer name="1">Spiral</Answer>
+    <Answer name="2">Elliptical</Answer>
+    <Answer name="3">Irregular</Answer>
+    <Answer name="4">Spherical</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which planet is known for having the Great Red Spot?</QuestionText>
+    <Answer name="1">Saturn</Answer>
+    <Answer name="2">Neptune</Answer>
+    <Answer name="3">Jupiter</Answer>
+    <Answer name="4">Mars</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Which spacecraft was the first to land humans on the Moon?</QuestionText>
+    <Answer name="1">Sputnik</Answer>
+    <Answer name="2">Luna 2</Answer>
+    <Answer name="3">Voyager 1</Answer>
+    <Answer name="4">Apollo 11</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">How many moons does Mars have?</QuestionText>
+    <Answer name="1">1</Answer>
+    <Answer name="2">2</Answer>
+    <Answer name="3">3</Answer>
+    <Answer name="4">4</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">Neptune is the farthest planet from the Sun.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Which planet is known as the "Evening Star"?</QuestionText>
+    <Answer name="1">Venus</Answer>
+    <Answer name="2">Mars</Answer>
+    <Answer name="3">Mercury</Answer>
+    <Answer name="4">Saturn</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which gas makes up most of the Sun’s composition?</QuestionText>
+    <Answer name="1">Oxygen</Answer>
+    <Answer name="2">Hydrogen</Answer>
+    <Answer name="3">Helium</Answer>
+    <Answer name="4">Carbon</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">A light year measures time, not distance.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which planet has the most moons?</QuestionText>
+    <Answer name="1">Earth</Answer>
+    <Answer name="2">Mars</Answer>
+    <Answer name="3">Jupiter</Answer>
+    <Answer name="4">Saturn</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Who was the first person in space?</QuestionText>
+    <Answer name="1">Yuri Gagarin</Answer>
+    <Answer name="2">Neil Armstrong</Answer>
+    <Answer name="3">Buzz Aldrin</Answer>
+    <Answer name="4">John Glenn</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">What is the largest type of star in the universe?</QuestionText>
+    <Answer name="1">White Dwarf</Answer>
+    <Answer name="2">Neutron Star</Answer>
+    <Answer name="3">Red Giant</Answer>
+    <Answer name="4">Supergiant</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which space telescope was launched in 1990 and remains in orbit today?</QuestionText>
+    <Answer name="1">Kepler Telescope</Answer>
+    <Answer name="2">Hubble Space Telescope</Answer>
+    <Answer name="3">James Webb Telescope</Answer>
+    <Answer name="4">Chandra X-Ray Telescope</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">A day on Venus is longer than a year on Venus.</QuestionText>
+  </Question>
+
+</QuizML>

@@ -1,0 +1,145 @@
+<QuizML name="Chemistry Quiz">
+  <Description>
+    This quiz tests your knowledge of chemistry, including chemical elements, reactions, compounds, and basic principles of chemistry.
+  </Description>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What is the chemical symbol for sodium?</QuestionText>
+    <Answer name="1">Na</Answer>
+    <Answer name="2">S</Answer>
+    <Answer name="3">So</Answer>
+    <Answer name="4">N</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which gas is released during photosynthesis?</QuestionText>
+    <Answer name="1">Carbon Dioxide</Answer>
+    <Answer name="2">Nitrogen</Answer>
+    <Answer name="3">Oxygen</Answer>
+    <Answer name="4">Hydrogen</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">What is the pH value of a neutral solution?</QuestionText>
+    <Answer name="1">1</Answer>
+    <Answer name="2">5</Answer>
+    <Answer name="3">10</Answer>
+    <Answer name="4">7</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">All acids have a pH greater than 7.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which element has the atomic number 1?</QuestionText>
+    <Answer name="1">Oxygen</Answer>
+    <Answer name="2">Hydrogen</Answer>
+    <Answer name="3">Nitrogen</Answer>
+    <Answer name="4">Helium</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What is the chemical formula for table salt?</QuestionText>
+    <Answer name="1">NaCl</Answer>
+    <Answer name="2">KCl</Answer>
+    <Answer name="3">MgCl2</Answer>
+    <Answer name="4">CaCl2</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">Water is a polar molecule.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">What type of bond involves the sharing of electrons?</QuestionText>
+    <Answer name="1">Ionic Bond</Answer>
+    <Answer name="2">Hydrogen Bond</Answer>
+    <Answer name="3">Covalent Bond</Answer>
+    <Answer name="4">Metallic Bond</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Which element is essential for the formation of organic compounds?</QuestionText>
+    <Answer name="1">Iron</Answer>
+    <Answer name="2">Sodium</Answer>
+    <Answer name="3">Calcium</Answer>
+    <Answer name="4">Carbon</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What is the most abundant gas in Earth’s atmosphere?</QuestionText>
+    <Answer name="1">Oxygen</Answer>
+    <Answer name="2">Nitrogen</Answer>
+    <Answer name="3">Carbon Dioxide</Answer>
+    <Answer name="4">Argon</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">Helium is a reactive gas.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which scientist developed the periodic table?</QuestionText>
+    <Answer name="1">Albert Einstein</Answer>
+    <Answer name="2">Isaac Newton</Answer>
+    <Answer name="3">Dmitri Mendeleev</Answer>
+    <Answer name="4">Marie Curie</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What is the molecular formula for methane?</QuestionText>
+    <Answer name="1">CH4</Answer>
+    <Answer name="2">C2H6</Answer>
+    <Answer name="3">CO2</Answer>
+    <Answer name="4">H2O</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which acid is found in vinegar?</QuestionText>
+    <Answer name="1">Hydrochloric Acid</Answer>
+    <Answer name="2">Acetic Acid</Answer>
+    <Answer name="3">Citric Acid</Answer>
+    <Answer name="4">Sulfuric Acid</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">What is the term for the change from liquid to gas?</QuestionText>
+    <Answer name="1">Condensation</Answer>
+    <Answer name="2">Freezing</Answer>
+    <Answer name="3">Evaporation</Answer>
+    <Answer name="4">Sublimation</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">An atom is mostly empty space.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">What is the main metal used in making coins?</QuestionText>
+    <Answer name="1">Iron</Answer>
+    <Answer name="2">Aluminum</Answer>
+    <Answer name="3">Copper</Answer>
+    <Answer name="4">Nickel</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Which element is a liquid at room temperature?</QuestionText>
+    <Answer name="1">Mercury</Answer>
+    <Answer name="2">Iron</Answer>
+    <Answer name="3">Sodium</Answer>
+    <Answer name="4">Calcium</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What is the chemical formula for carbon dioxide?</QuestionText>
+    <Answer name="1">CO</Answer>
+    <Answer name="2">CO2</Answer>
+    <Answer name="3">C2O</Answer>
+    <Answer name="4">CaCO3</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">Electrons have a negative charge.</QuestionText>
+  </Question>
+</QuizML>

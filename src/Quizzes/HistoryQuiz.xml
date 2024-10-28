@@ -1,0 +1,145 @@
+<QuizML name="Historical Quiz">
+  <Description>
+    This quiz focuses on the history of India, covering ancient, medieval, and modern events, key figures, and milestones in Indian history.
+  </Description>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Who was the first Prime Minister of independent India?</QuestionText>
+    <Answer name="1">Mahatma Gandhi</Answer>
+    <Answer name="2">Jawaharlal Nehru</Answer>
+    <Answer name="3">Vallabhbhai Patel</Answer>
+    <Answer name="4">Subhas Chandra Bose</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">In which year did the Jallianwala Bagh massacre take place?</QuestionText>
+    <Answer name="1">1915</Answer>
+    <Answer name="2">1917</Answer>
+    <Answer name="3">1919</Answer>
+    <Answer name="4">1921</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Which Mughal emperor built the Taj Mahal?</QuestionText>
+    <Answer name="1">Akbar</Answer>
+    <Answer name="2">Jahangir</Answer>
+    <Answer name="3">Humayun</Answer>
+    <Answer name="4">Shah Jahan</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which battle marked the beginning of British rule in India?</QuestionText>
+    <Answer name="1">Battle of Panipat</Answer>
+    <Answer name="2">Battle of Plassey</Answer>
+    <Answer name="3">Battle of Buxar</Answer>
+    <Answer name="4">Anglo-Maratha War</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Who wrote the national anthem of India?</QuestionText>
+    <Answer name="1">Rabindranath Tagore</Answer>
+    <Answer name="2">Bankim Chandra Chatterjee</Answer>
+    <Answer name="3">Sarojini Naidu</Answer>
+    <Answer name="4">Mahatma Gandhi</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">The Indian Independence Act was passed in 1947.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which movement was launched by Mahatma Gandhi in 1942?</QuestionText>
+    <Answer name="1">Swadeshi Movement</Answer>
+    <Answer name="2">Non-Cooperation Movement</Answer>
+    <Answer name="3">Quit India Movement</Answer>
+    <Answer name="4">Dandi March</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Which ancient text is known as the earliest Indian scripture?</QuestionText>
+    <Answer name="1">Rigveda</Answer>
+    <Answer name="2">Upanishads</Answer>
+    <Answer name="3">Mahabharata</Answer>
+    <Answer name="4">Bhagavad Gita</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">Subhas Chandra Bose was a supporter of non-violence.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Which leader was known as the 'Iron Man of India'?</QuestionText>
+    <Answer name="1">Mahatma Gandhi</Answer>
+    <Answer name="2">Jawaharlal Nehru</Answer>
+    <Answer name="3">Bhagat Singh</Answer>
+    <Answer name="4">Sardar Vallabhbhai Patel</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">When was the Indian Constitution adopted?</QuestionText>
+    <Answer name="1">January 26, 1949</Answer>
+    <Answer name="2">January 26, 1950</Answer>
+    <Answer name="3">August 15, 1947</Answer>
+    <Answer name="4">October 2, 1948</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">Ashoka was a ruler of the Maurya dynasty.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Who founded the Maurya Empire?</QuestionText>
+    <Answer name="1">Ashoka</Answer>
+    <Answer name="2">Harsha</Answer>
+    <Answer name="3">Chandragupta Maurya</Answer>
+    <Answer name="4">Samudragupta</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">What was the capital of the Vijayanagara Empire?</QuestionText>
+    <Answer name="1">Madurai</Answer>
+    <Answer name="2">Kanchipuram</Answer>
+    <Answer name="3">Tanjore</Answer>
+    <Answer name="4">Hampi</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Which city was the site of the first session of the Indian National Congress?</QuestionText>
+    <Answer name="1">Bombay (Mumbai)</Answer>
+    <Answer name="2">Calcutta (Kolkata)</Answer>
+    <Answer name="3">Delhi</Answer>
+    <Answer name="4">Madras (Chennai)</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">Rani Lakshmibai was a prominent leader during the 1857 revolt.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Who was known as the 'Father of the Indian Renaissance'?</QuestionText>
+    <Answer name="1">Mahatma Gandhi</Answer>
+    <Answer name="2">Swami Vivekananda</Answer>
+    <Answer name="3">Raja Ram Mohan Roy</Answer>
+    <Answer name="4">Rabindranath Tagore</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Who was the last Governor-General of independent India?</QuestionText>
+    <Answer name="1">C. Rajagopalachari</Answer>
+    <Answer name="2">Lord Mountbatten</Answer>
+    <Answer name="3">Warren Hastings</Answer>
+    <Answer name="4">Robert Clive</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Which treaty ended the First Anglo-Maratha War?</QuestionText>
+    <Answer name="1">Treaty of Allahabad</Answer>
+    <Answer name="2">Treaty of Seringapatam</Answer>
+    <Answer name="3">Treaty of Salbai</Answer>
+    <Answer name="4">Treaty of Purandhar</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">The Non-Cooperation Movement was launched after the Quit India Movement.</QuestionText>
+  </Question>
+</QuizML>

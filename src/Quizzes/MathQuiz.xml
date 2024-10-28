@@ -1,0 +1,197 @@
+<QuizML name="Math Quiz">
+  <Description>
+    This quiz tests your knowledge across various mathematical domains, including algebra, geometry, calculus, and arithmetic.
+  </Description>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What is 15% of 200?</QuestionText>
+    <Answer name="1">20</Answer>
+    <Answer name="2">30</Answer>
+    <Answer name="3">40</Answer>
+    <Answer name="4">25</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">What is the value of pi to two decimal places?</QuestionText>
+    <Answer name="1">2.17</Answer>
+    <Answer name="2">4.13</Answer>
+    <Answer name="3">3.00</Answer>
+    <Answer name="4">3.14</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">A triangle with sides 3, 4, and 5 is a right triangle.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What is the derivative of x^2 ?</QuestionText>
+    <Answer name="1">2x^2</Answer>
+    <Answer name="2">2x</Answer>
+    <Answer name="3">x</Answer>
+    <Answer name="4">x^2 + 2</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">How many degrees are in a circle?</QuestionText>
+    <Answer name="1">90°</Answer>
+    <Answer name="2">180°</Answer>
+    <Answer name="3">360°</Answer>
+    <Answer name="4">720°</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">What is the smallest prime number?</QuestionText>
+    <Answer name="1">0</Answer>
+    <Answer name="2">1</Answer>
+    <Answer name="3">3</Answer>
+    <Answer name="4">2</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">The sum of interior angles in a triangle is 180°.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What is the solution to the equation 2x + 3 = 7?</QuestionText>
+    <Answer name="1">2</Answer>
+    <Answer name="2">3</Answer>
+    <Answer name="3">5</Answer>
+    <Answer name="4">4</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What is the value of sin(90°)?</QuestionText>
+    <Answer name="1">0</Answer>
+    <Answer name="2">1</Answer>
+    <Answer name="3">0.5</Answer>
+    <Answer name="4">-1</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">The Fibonacci sequence starts with 0 and 1.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">What is the factorial of 5 (5!)?</QuestionText>
+    <Answer name="1">20</Answer>
+    <Answer name="2">25</Answer>
+    <Answer name="3">120</Answer>
+    <Answer name="4">60</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">What is 2 to the power of 10?</QuestionText>
+    <Answer name="1">256</Answer>
+    <Answer name="2">100</Answer>
+    <Answer name="3">500</Answer>
+    <Answer name="4">1024</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">The number 1 is a prime number.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which formula represents the Pythagorean theorem?</QuestionText>
+    <Answer name="1">a + b = c</Answer>
+    <Answer name="2">a^2 + b^2 = c^2</Answer>
+    <Answer name="3">a^2 - b^2 = c^2</Answer>
+    <Answer name="4">a^2 / b^2 = c^2</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">What is the slope of the line y = 3x + 2?</QuestionText>
+    <Answer name="1">2</Answer>
+    <Answer name="2">3/2</Answer>
+    <Answer name="3">0</Answer>
+    <Answer name="4">3</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What is the area of a rectangle with length 5 and width 4?</QuestionText>
+    <Answer name="1">20</Answer>
+    <Answer name="2">25</Answer>
+    <Answer name="3">9</Answer>
+    <Answer name="4">12</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">The value of log(1) is 0.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What is the mean of the numbers 2, 4, 6, and 8?</QuestionText>
+    <Answer name="1">4</Answer>
+    <Answer name="2">5</Answer>
+    <Answer name="3">6</Answer>
+    <Answer name="4">7</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">What is the circumference of a circle with radius 7 (use pi = 3.14)?</QuestionText>
+    <Answer name="1">21.98</Answer>
+    <Answer name="2">38</Answer>
+    <Answer name="3">43.96</Answer>
+    <Answer name="4">30.5</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">What is the value of pi to two decimal places?</QuestionText>
+    <Answer name="1">3.00</Answer>
+    <Answer name="2">3.12</Answer>
+    <Answer name="3">3.14</Answer>
+    <Answer name="4">3.18</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Solve for x: 2x + 3 = 11</QuestionText>
+    <Answer name="1">4</Answer>
+    <Answer name="2">5</Answer>
+    <Answer name="3">3</Answer>
+    <Answer name="4">2</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What is the square root of 144?</QuestionText>
+    <Answer name="1">10</Answer>
+    <Answer name="2">12</Answer>
+    <Answer name="3">14</Answer>
+    <Answer name="4">16</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Which of the following is a prime number?</QuestionText>
+    <Answer name="1">4</Answer>
+    <Answer name="2">6</Answer>
+    <Answer name="3">9</Answer>
+    <Answer name="4">11</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What is the area of a circle with a radius of 7 cm? (Use pi = 3.14)</QuestionText>
+    <Answer name="1">153.86 cm^2</Answer>
+    <Answer name="2">100 cm^2</Answer>
+    <Answer name="3">120 cm^2</Answer>
+    <Answer name="4">140 cm^2</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">The sum of all even numbers is always odd.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">What is the value of the expression: 4 + 3 × 2?</QuestionText>
+    <Answer name="1">14</Answer>
+    <Answer name="2">10</Answer>
+    <Answer name="3">8</Answer>
+    <Answer name="4">10</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which of the following is not a type of triangle?</QuestionText>
+    <Answer name="1">Equilateral</Answer>
+    <Answer name="2">Pentagon</Answer>
+    <Answer name="3">Isosceles</Answer>
+    <Answer name="4">Scalene</Answer>
+  </Question>
+</QuizML>

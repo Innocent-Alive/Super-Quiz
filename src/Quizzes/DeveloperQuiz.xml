@@ -1,0 +1,145 @@
+<QuizML name="Developer Quiz">
+  <Description>
+    This quiz tests your knowledge of programming concepts, web development, frameworks, tools, and best practices essential for developers.
+  </Description>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What does HTML stand for?</QuestionText>
+    <Answer name="1">HyperText Markup Language</Answer>
+    <Answer name="2">Hyperlink Transfer Markup Language</Answer>
+    <Answer name="3">HyperTool Machine Language</Answer>
+    <Answer name="4">HyperText Mode Language</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which programming language is known as the backbone of the web?</QuestionText>
+    <Answer name="1">Python</Answer>
+    <Answer name="2">JavaScript</Answer>
+    <Answer name="3">C++</Answer>
+    <Answer name="4">Ruby</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which version control system is most widely used in software development?</QuestionText>
+    <Answer name="1">SVN</Answer>
+    <Answer name="2">Mercurial</Answer>
+    <Answer name="3">Git</Answer>
+    <Answer name="4">CVS</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">React is a JavaScript library for building user interfaces.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which of the following is a CSS framework?</QuestionText>
+    <Answer name="1">Vue.js</Answer>
+    <Answer name="2">Bootstrap</Answer>
+    <Answer name="3">Laravel</Answer>
+    <Answer name="4">Django</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">What does SQL stand for?</QuestionText>
+    <Answer name="1">Structured Query Logic</Answer>
+    <Answer name="2">Sequential Query Language</Answer>
+    <Answer name="3">Simple Query Language</Answer>
+    <Answer name="4">Structured Query Language</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">In Python, '==' checks if two variables refer to the same memory location.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which of the following is a backend framework?</QuestionText>
+    <Answer name="1">Angular</Answer>
+    <Answer name="2">Vue.js</Answer>
+    <Answer name="3">Express.js</Answer>
+    <Answer name="4">Tailwind CSS</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Which language is primarily used for Android development?</QuestionText>
+    <Answer name="1">Java</Answer>
+    <Answer name="2">Swift</Answer>
+    <Answer name="3">Python</Answer>
+    <Answer name="4">C#</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which HTTP status code indicates a 'Not Found' error?</QuestionText>
+    <Answer name="1">200</Answer>
+    <Answer name="2">404</Answer>
+    <Answer name="3">500</Answer>
+    <Answer name="4">302</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">Docker is a tool used for containerization.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Which of the following is a NoSQL database?</QuestionText>
+    <Answer name="1">MongoDB</Answer>
+    <Answer name="2">MySQL</Answer>
+    <Answer name="3">PostgreSQL</Answer>
+    <Answer name="4">SQLite</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">What is the main purpose of RESTful APIs?</QuestionText>
+    <Answer name="1">To manage databases</Answer>
+    <Answer name="2">To create front-end components</Answer>
+    <Answer name="3">To handle user authentication</Answer>
+    <Answer name="4">To enable communication between different software systems</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">CSS stands for Computer Style Sheet.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which of the following languages is statically typed?</QuestionText>
+    <Answer name="1">Python</Answer>
+    <Answer name="2">JavaScript</Answer>
+    <Answer name="3">Java</Answer>
+    <Answer name="4">Ruby</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What does the 'npm' command-line tool manage?</QuestionText>
+    <Answer name="1">Python packages</Answer>
+    <Answer name="2">Node.js packages</Answer>
+    <Answer name="3">Java libraries</Answer>
+    <Answer name="4">Docker containers</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Which of the following keywords is used to declare a constant in JavaScript?</QuestionText>
+    <Answer name="1">const</Answer>
+    <Answer name="2">var</Answer>
+    <Answer name="3">let</Answer>
+    <Answer name="4">define</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">TypeScript is a superset of JavaScript.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Which company developed the React library?</QuestionText>
+    <Answer name="1">Google</Answer>
+    <Answer name="2">Microsoft</Answer>
+    <Answer name="3">Apple</Answer>
+    <Answer name="4">Facebook (now Meta)</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What is the main use of GitHub?</QuestionText>
+    <Answer name="1">Hosting web pages</Answer>
+    <Answer name="2">Version control and collaboration</Answer>
+    <Answer name="3">Database management</Answer>
+    <Answer name="4">Cloud computing</Answer>
+  </Question>
+</QuizML>

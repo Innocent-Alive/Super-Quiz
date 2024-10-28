@@ -1,0 +1,177 @@
+<QuizML name="General Knowledge Quiz">
+  <Description>
+    This quiz tests your knowledge across various general knowledge topics, including history, geography, science, and current affairs.
+  </Description>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which planet is known as the Red Planet?</QuestionText>
+    <Answer name="1">Earth</Answer>
+    <Answer name="2">Mars</Answer>
+    <Answer name="3">Jupiter</Answer>
+    <Answer name="4">Venus</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">What is the capital city of Japan?</QuestionText>
+    <Answer name="1">Beijing</Answer>
+    <Answer name="2">Seoul</Answer>
+    <Answer name="3">Tokyo</Answer>
+    <Answer name="4">Bangkok</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">The Great Wall of China is visible from space.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Who wrote the play "Romeo and Juliet"?</QuestionText>
+    <Answer name="1">William Shakespeare</Answer>
+    <Answer name="2">Charles Dickens</Answer>
+    <Answer name="3">Mark Twain</Answer>
+    <Answer name="4">Jane Austen</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which country is known as the Land of the Rising Sun?</QuestionText>
+    <Answer name="1">China</Answer>
+    <Answer name="2">Japan</Answer>
+    <Answer name="3">South Korea</Answer>
+    <Answer name="4">Thailand</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">What is the largest ocean on Earth?</QuestionText>
+    <Answer name="1">Atlantic Ocean</Answer>
+    <Answer name="2">Indian Ocean</Answer>
+    <Answer name="3">Arctic Ocean</Answer>
+    <Answer name="4">Pacific Ocean</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">The human body has four lungs.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Who was the first President of the United States?</QuestionText>
+    <Answer name="1">Abraham Lincoln</Answer>
+    <Answer name="2">George Washington</Answer>
+    <Answer name="3">Thomas Jefferson</Answer>
+    <Answer name="4">John Adams</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What is the chemical symbol for gold?</QuestionText>
+    <Answer name="1">Au</Answer>
+    <Answer name="2">Ag</Answer>
+    <Answer name="3">Fe</Answer>
+    <Answer name="4">Pb</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">Albert Einstein developed the theory of evolution.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Which element has the atomic number 1?</QuestionText>
+    <Answer name="1">Helium</Answer>
+    <Answer name="2">Oxygen</Answer>
+    <Answer name="3">Hydrogen</Answer>
+    <Answer name="4">Carbon</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">What is the main ingredient in guacamole?</QuestionText>
+    <Answer name="1">Tomato</Answer>
+    <Answer name="2">Pepper</Answer>
+    <Answer name="3">Avocado</Answer>
+    <Answer name="4">Onion</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">The Eiffel Tower is located in Berlin.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What is the largest desert in the world?</QuestionText>
+    <Answer name="1">Sahara Desert</Answer>
+    <Answer name="2">Antarctic Desert</Answer>
+    <Answer name="3">Gobi Desert</Answer>
+    <Answer name="4">Kalahari Desert</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Which gas do plants absorb from the atmosphere?</QuestionText>
+    <Answer name="1">Carbon Dioxide</Answer>
+    <Answer name="2">Oxygen</Answer>
+    <Answer name="3">Nitrogen</Answer>
+    <Answer name="4">Hydrogen</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Which country gifted the Statue of Liberty to the United States?</QuestionText>
+    <Answer name="1">Germany</Answer>
+    <Answer name="2">United Kingdom</Answer>
+    <Answer name="3">France</Answer>
+    <Answer name="4">Italy</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">Venus is the hottest planet in the solar system.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">In which year did the Titanic sink?</QuestionText>
+    <Answer name="1">1905</Answer>
+    <Answer name="2">1910</Answer>
+    <Answer name="3">1912</Answer>
+    <Answer name="4">1920</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What is the longest river in the world?</QuestionText>
+    <Answer name="1">Amazon River</Answer>
+    <Answer name="2">Nile River</Answer>
+    <Answer name="3">Yangtze River</Answer>
+    <Answer name="4">Mississippi River</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What is the name of the first artificial Earth satellite?</QuestionText>
+    <Answer name="1">Sputnik 1</Answer>
+    <Answer name="2">Vostok 1</Answer>
+    <Answer name="3">Apollo 11</Answer>
+    <Answer name="4">Gemini 4</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which famous scientist developed the theory of relativity?</QuestionText>
+    <Answer name="1">Isaac Newton</Answer>
+    <Answer name="2">Nikola Tesla</Answer>
+    <Answer name="3">Albert Einstein</Answer>
+    <Answer name="4">Stephen Hawking</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which organ in the human body is responsible for pumping blood?</QuestionText>
+    <Answer name="1">Liver</Answer>
+    <Answer name="2">Heart</Answer>
+    <Answer name="3">Lungs</Answer>
+    <Answer name="4">Kidney</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Who painted the Mona Lisa?</QuestionText>
+    <Answer name="1">Vincent van Gogh</Answer>
+    <Answer name="2">Pablo Picasso</Answer>
+    <Answer name="3">Claude Monet</Answer>
+    <Answer name="4">Leonardo da Vinci</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Which continent is the Sahara Desert located on?</QuestionText>
+    <Answer name="1">Africa</Answer>
+    <Answer name="2">Asia</Answer>
+    <Answer name="3">Australia</Answer>
+    <Answer name="4">South America</Answer>
+  </Question>
+</QuizML>

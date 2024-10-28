@@ -1,0 +1,146 @@
+<QuizML name="Technology Quiz">
+  <Description>
+    This quiz tests your knowledge of various technologies, innovations, and general IT concepts, from AI to cloud computing and blockchain.
+  </Description>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">What does AI stand for?</QuestionText>
+    <Answer name="1">Artificial Integration</Answer>
+    <Answer name="2">Advanced Innovation</Answer>
+    <Answer name="3">Artificial Intelligence</Answer>
+    <Answer name="4">Automatic Interface</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which company developed the Android operating system?</QuestionText>
+    <Answer name="1">Apple</Answer>
+    <Answer name="2">Google</Answer>
+    <Answer name="3">Microsoft</Answer>
+    <Answer name="4">IBM</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">What is the primary function of a VPN?</QuestionText>
+    <Answer name="1">Increase internet speed</Answer>
+    <Answer name="2">Block ads</Answer>
+    <Answer name="3">Backup files</Answer>
+    <Answer name="4">Ensure secure and private internet access</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">Blockchain technology is used to create decentralized systems.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What is the main purpose of cloud computing?</QuestionText>
+    <Answer name="1">Store and access data remotely</Answer>
+    <Answer name="2">Develop new programming languages</Answer>
+    <Answer name="3">Run only local applications</Answer>
+    <Answer name="4">Connect IoT devices</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">What is 5G?</QuestionText>
+    <Answer name="1">A programming language</Answer>
+    <Answer name="2">A cloud storage platform</Answer>
+    <Answer name="3">Fifth-generation mobile network</Answer>
+    <Answer name="4">An operating system</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">HTML is a backend programming language.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What does IoT stand for?</QuestionText>
+    <Answer name="1">Internet of Tools</Answer>
+    <Answer name="2">Internet of Things</Answer>
+    <Answer name="3">Integration of Technologies</Answer>
+    <Answer name="4">Instance of Transport</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Which of the following is an AI-powered virtual assistant?</QuestionText>
+    <Answer name="1">Firefox</Answer>
+    <Answer name="2">Google Drive</Answer>
+    <Answer name="3">Slack</Answer>
+    <Answer name="4">Siri</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What is GitHub used for?</QuestionText>
+    <Answer name="1">Code collaboration and version control</Answer>
+    <Answer name="2">Web browsing</Answer>
+    <Answer name="3">Image editing</Answer>
+    <Answer name="4">Cloud storage</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">Machine learning is a subset of artificial intelligence.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which of the following is a popular cryptocurrency?</QuestionText>
+    <Answer name="1">Ethereum</Answer>
+    <Answer name="2">Bitcoin</Answer>
+    <Answer name="3">Litecoin</Answer>
+    <Answer name="4">All of the above</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which platform is primarily used for hosting and sharing code?</QuestionText>
+    <Answer name="1">Google Docs</Answer>
+    <Answer name="2">Dropbox</Answer>
+    <Answer name="3">GitHub</Answer>
+    <Answer name="4">Zoom</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">AWS is a social media platform.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What does SaaS stand for?</QuestionText>
+    <Answer name="1">Software as an Application</Answer>
+    <Answer name="2">Software as a Service</Answer>
+    <Answer name="3">System as a Service</Answer>
+    <Answer name="4">Solution and Application System</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which company is known for creating the Azure cloud platform?</QuestionText>
+    <Answer name="1">Amazon</Answer>
+    <Answer name="2">Google</Answer>
+    <Answer name="3">Microsoft</Answer>
+    <Answer name="4">IBM</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Which programming language is most commonly used in data science?</QuestionText>
+    <Answer name="1">PHP</Answer>
+    <Answer name="2">C++</Answer>
+    <Answer name="3">Ruby</Answer>
+    <Answer name="4">Python</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What does AR stand for in technology?</QuestionText>
+    <Answer name="1">Augmented Reality</Answer>
+    <Answer name="2">Automatic Response</Answer>
+    <Answer name="3">Artificial Resolution</Answer>
+    <Answer name="4">Advanced Rendering</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which device is often referred to as a 'wearable'?</QuestionText>
+    <Answer name="1">Desktop</Answer>
+    <Answer name="2">Smartphone</Answer>
+    <Answer name="3">Smartwatch</Answer>
+    <Answer name="4">Laptop</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">Quantum computing is expected to solve problems traditional computers cannot.</QuestionText>
+  </Question>
+
+</QuizML>

@@ -1,0 +1,145 @@
+<QuizML name="Geography Quiz">
+  <Description>
+    This quiz covers various topics about world geography, including countries, capitals, landscapes, and natural wonders.
+  </Description>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">What is the capital of Canada?</QuestionText>
+    <Answer name="1">Toronto</Answer>
+    <Answer name="2">Vancouver</Answer>
+    <Answer name="3">Ottawa</Answer>
+    <Answer name="4">Montreal</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Which river is the longest in the world?</QuestionText>
+    <Answer name="1">Nile</Answer>
+    <Answer name="2">Amazon</Answer>
+    <Answer name="3">Yangtze</Answer>
+    <Answer name="4">Mississippi</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which country has the highest population?</QuestionText>
+    <Answer name="1">United States</Answer>
+    <Answer name="2">China</Answer>
+    <Answer name="3">India</Answer>
+    <Answer name="4">Russia</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What is the largest continent by land area?</QuestionText>
+    <Answer name="1">Asia</Answer>
+    <Answer name="2">Africa</Answer>
+    <Answer name="3">Europe</Answer>
+    <Answer name="4">North America</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Where is the Great Barrier Reef located?</QuestionText>
+    <Answer name="1">South Africa</Answer>
+    <Answer name="2">Mexico</Answer>
+    <Answer name="3">Japan</Answer>
+    <Answer name="4">Australia</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which desert covers most of northern Africa?</QuestionText>
+    <Answer name="1">Gobi Desert</Answer>
+    <Answer name="2">Kalahari Desert</Answer>
+    <Answer name="3">Sahara Desert</Answer>
+    <Answer name="4">Arabian Desert</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">What is the smallest country in the world by area?</QuestionText>
+    <Answer name="1">Monaco</Answer>
+    <Answer name="2">Vatican City</Answer>
+    <Answer name="3">San Marino</Answer>
+    <Answer name="4">Liechtenstein</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">Mount Everest is the highest point on Earth.</QuestionText>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">The Amazon River flows through India.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">Which ocean is the largest by surface area?</QuestionText>
+    <Answer name="1">Atlantic</Answer>
+    <Answer name="2">Indian</Answer>
+    <Answer name="3">Arctic</Answer>
+    <Answer name="4">Pacific</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which city is known as the 'City of Canals'?</QuestionText>
+    <Answer name="1">Amsterdam</Answer>
+    <Answer name="2">Bangkok</Answer>
+    <Answer name="3">Venice</Answer>
+    <Answer name="4">Copenhagen</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">Which country is famous for the Pyramids?</QuestionText>
+    <Answer name="1">Egypt</Answer>
+    <Answer name="2">Mexico</Answer>
+    <Answer name="3">India</Answer>
+    <Answer name="4">Peru</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="4">What is the deepest part of the ocean?</QuestionText>
+    <Answer name="1">Puerto Rico Trench</Answer>
+    <Answer name="2">Tonga Trench</Answer>
+    <Answer name="3">Java Trench</Answer>
+    <Answer name="4">Mariana Trench</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">Antarctica is home to a permanent human population.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which U.S. state has the most islands?</QuestionText>
+    <Answer name="1">California</Answer>
+    <Answer name="2">Alaska</Answer>
+    <Answer name="3">Florida</Answer>
+    <Answer name="4">Hawaii</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="t">The Great Wall of China is visible from space.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="1">What is the capital of Japan?</QuestionText>
+    <Answer name="1">Tokyo</Answer>
+    <Answer name="2">Osaka</Answer>
+    <Answer name="3">Kyoto</Answer>
+    <Answer name="4">Nagoya</Answer>
+  </Question>
+
+  <Question type="tf" points="5">
+    <QuestionText answer="f">The Nile River flows into the Pacific Ocean.</QuestionText>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="3">Which country is also known as the Land of the Rising Sun?</QuestionText>
+    <Answer name="1">South Korea</Answer>
+    <Answer name="2">China</Answer>
+    <Answer name="3">Japan</Answer>
+    <Answer name="4">Vietnam</Answer>
+  </Question>
+
+  <Question type="multichoice" points="10">
+    <QuestionText answer="2">Which city is located on two continents?</QuestionText>
+    <Answer name="1">Moscow</Answer>
+    <Answer name="2">Istanbul</Answer>
+    <Answer name="3">Cairo</Answer>
+    <Answer name="4">Rome</Answer>
+  </Question>
+</QuizML>
