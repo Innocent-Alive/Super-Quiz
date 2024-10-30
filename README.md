@@ -1,25 +1,25 @@
 <pre>
-<h1> Super Quiz </h1>
+<h1>Super Quiz </h1>
 Super Quiz is a Python-based quiz application that allows users to take interactive quizzes with various question types, such as multiple-choice and true/false questions. The quizzes are stored as XML files in a designated Quizzes folder. The program offers a smooth user experience with the ability to retry incorrect questions and save quiz results to text files.
 
-<h2> Features </h2>
+<h2>Features </h2>
 <h3>Multiple Question Types: </h3>
 Multiple Choice (MC)
 True/False (TF)
 
-<h3> Quiz Management: </h3>
+<h3>Quiz Management: </h3>
 List available quizzes dynamically from the Quizzes folder.
 Automatically parse quizzes from XML files.
 
-<h3> Interactive Experience: </h3>
+<h3>Interactive Experience: </h3>
 Tracks and displays score and completion time.
 Option to retry incorrect questions.
 
-<h3> Results Management: </h3>
+<h3>Results Management: </h3>
 View quiz results at the end.
 Option to save results as a text file for future reference.
 
-<h2> Project Structure </h2>
+<h2>Project Structure </h2>
 
 SuperQuiz/
 │
@@ -31,9 +31,10 @@ SuperQuiz/
 │   └── MyQuiz.xml          # Example quiz file (replace or add your own)
 └── README.md               # Project documentation (this file)
 
-<h2> XML Quiz File Format </h2>
+<h2>XML Quiz File Format </h2>
 Each quiz is represented by an XML file within the Quizzes/ folder. Below is a sample structure of a quiz XML file:
-<code>
+
+    <pre><code>
 <QuizML name="General Knowledge Quiz">
     <Description>A quiz to test your general knowledge.</Description>
     <Question type="tf" points="5">
@@ -47,25 +48,25 @@ Each quiz is represented by an XML file within the Quizzes/ folder. Below is a s
         <Answer name="d">Rome</Answer>
     </Question>
 </QuizML>
-</code>
+</code></pre>
 QuizML: Root tag for a quiz. name attribute defines the quiz title.
 Description: Brief summary of the quiz.
 Question: Contains a question of type "tf" (True/False) or "multichoice".
 QuestionText: Defines the question text and the correct answer.
 Answer: Contains possible answers for multiple-choice questions.
 
-## Installation and Setup
+<h2>Installation and Setup </h2>
 Clone the repository:
 git clone https://github.com/your-username/SuperQuiz.git
 cd SuperQuiz
 Install Dependencies: This project requires Python 3.x and the colorama library for colored text in the terminal.
 pip install colorama
 
-## Add Your Quizzes:
+<h2>Add Your Quizzes: </h2>
 Place XML quiz files inside the Quizzes/ folder.
 Follow the sample XML format to create your own quizzes.
 
-## How to Run
+<h2>How to Run </h2>
 Open a terminal and navigate to the SuperQuiz project directory.
 
 Run the application using:
@@ -75,7 +76,7 @@ List available quizzes.
 Take a quiz.
 Save results.
 
-## Example Usage
+<h2>Example Usage </h2>
 Startup: Enter your name to begin.
 
 Menu Options:
@@ -89,11 +90,11 @@ During the Quiz:
 True/False questions: Answer with T or F.
 Multiple-choice questions: Enter the corresponding letter (e.g., A, B).
 
-## Saving Results
+<h2>Saving Results </h2>
 After completing a quiz, you can choose to save your results.
 The results will be saved as a QuizResults_YYYY_MM_DD.txt file in the current directory.
 
-## Example Output
+<h2>Example Output </h2>
 **************************************
 QUIZ NAME: General Knowledge Quiz
 DESCRIPTION: A quiz to test your general knowledge.
