@@ -10,7 +10,7 @@ True/False (TF)
 List available quizzes dynamically from the Quizzes folder.
 Automatically parse quizzes from XML files.
 
-###Interactive Experience:
+### Interactive Experience:
 Tracks and displays score and completion time.
 Option to retry incorrect questions.
 
@@ -30,7 +30,7 @@ SuperQuiz/
 │   └── MyQuiz.xml          # Example quiz file (replace or add your own)
 └── README.md               # Project documentation (this file)
 
-##XML Quiz File Format
+## XML Quiz File Format
 Each quiz is represented by an XML file within the Quizzes/ folder. Below is a sample structure of a quiz XML file:
 
 <QuizML name="General Knowledge Quiz">
@@ -52,18 +52,18 @@ Question: Contains a question of type "tf" (True/False) or "multichoice".
 QuestionText: Defines the question text and the correct answer.
 Answer: Contains possible answers for multiple-choice questions.
 
-##Installation and Setup
+## Installation and Setup
 Clone the repository:
 git clone https://github.com/your-username/SuperQuiz.git
 cd SuperQuiz
 Install Dependencies: This project requires Python 3.x and the colorama library for colored text in the terminal.
 pip install colorama
 
-##Add Your Quizzes:
+## Add Your Quizzes:
 Place XML quiz files inside the Quizzes/ folder.
 Follow the sample XML format to create your own quizzes.
 
-##How to Run
+## How to Run
 Open a terminal and navigate to the SuperQuiz project directory.
 
 Run the application using:
@@ -73,7 +73,7 @@ List available quizzes.
 Take a quiz.
 Save results.
 
-##Example Usage
+## Example Usage
 Startup: Enter your name to begin.
 
 Menu Options:
@@ -87,11 +87,11 @@ During the Quiz:
 True/False questions: Answer with T or F.
 Multiple-choice questions: Enter the corresponding letter (e.g., A, B).
 
-##Saving Results
+## Saving Results
 After completing a quiz, you can choose to save your results.
 The results will be saved as a QuizResults_YYYY_MM_DD.txt file in the current directory.
 
-##Example Output
+## Example Output
 **************************************
 QUIZ NAME: General Knowledge Quiz
 DESCRIPTION: A quiz to test your general knowledge.
