@@ -1,6 +1,8 @@
 <pre>
 <h1>Super Quiz </h1>
-Super Quiz is a Python-based quiz application that allows users to take interactive quizzes with various question types, such as multiple-choice and true/false questions. The quizzes are stored as XML files in a designated Quizzes folder. The program offers a smooth user experience with the ability to retry incorrect questions and save quiz results to text files.
+Super Quiz is a Python-based quiz application that allows users to take interactive quizzes with various question types, 
+such as multiple-choice and true/false questions. The quizzes are stored as XML files in a designated Quizzes folder. 
+The program offers a smooth user experience with the ability to retry incorrect questions and save quiz results to text files.
 
 <h2>Features </h2>
 <h3>Multiple Question Types: </h3>
