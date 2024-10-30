@@ -1,6 +1,6 @@
 # Super Quiz
 Super Quiz is a Python-based quiz application that allows users to take interactive quizzes with various question types, such as multiple-choice and true/false questions. The quizzes are stored as XML files in a designated Quizzes folder. The program offers a smooth user experience with the ability to retry incorrect questions and save quiz results to text files.
-
+<pre>
 ## Features
 ###Multiple Question Types:
 Multiple Choice (MC)
@@ -121,3 +121,4 @@ ELAPSED TIME: 0:00:15
 QUESTIONS: 2 out of 2 correct
 SCORE: 15 points out of 15 points
 **************************************
+</pre>
