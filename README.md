@@ -36,21 +36,6 @@ SuperQuiz/
 <h2>XML Quiz File Format </h2>
 Each quiz is represented by an XML file within the Quizzes/ folder. Below is a sample structure of a quiz XML file:
 
-    <pre><code>
-<QuizML name="General Knowledge Quiz">
-    <Description>A quiz to test your general knowledge.</Description>
-    <Question type="tf" points="5">
-        <QuestionText answer="t">The Earth is round.</QuestionText>
-    </Question>
-    <Question type="multichoice" points="10">
-        <QuestionText answer="a">What is the capital of France?</QuestionText>
-        <Answer name="a">Paris</Answer>
-        <Answer name="b">Berlin</Answer>
-        <Answer name="c">Madrid</Answer>
-        <Answer name="d">Rome</Answer>
-    </Question>
-</QuizML>
-</code></pre>
 QuizML: Root tag for a quiz. name attribute defines the quiz title.
 Description: Brief summary of the quiz.
 Question: Contains a question of type "tf" (True/False) or "multichoice".
