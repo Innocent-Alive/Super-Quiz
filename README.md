@@ -1,24 +1,25 @@
-# Super Quiz
-Super Quiz is a Python-based quiz application that allows users to take interactive quizzes with various question types, such as multiple-choice and true/false questions. The quizzes are stored as XML files in a designated Quizzes folder. The program offers a smooth user experience with the ability to retry incorrect questions and save quiz results to text files.
 <pre>
-## Features
-###Multiple Question Types:
+<h1> Super Quiz </h1>
+Super Quiz is a Python-based quiz application that allows users to take interactive quizzes with various question types, such as multiple-choice and true/false questions. The quizzes are stored as XML files in a designated Quizzes folder. The program offers a smooth user experience with the ability to retry incorrect questions and save quiz results to text files.
+
+<h2> Features </h2>
+<h3>Multiple Question Types: </h3>
 Multiple Choice (MC)
 True/False (TF)
 
-### Quiz Management:
+<h3> Quiz Management: </h3>
 List available quizzes dynamically from the Quizzes folder.
 Automatically parse quizzes from XML files.
 
-### Interactive Experience:
+<h3> Interactive Experience: </h3>
 Tracks and displays score and completion time.
 Option to retry incorrect questions.
 
-### Results Management:
+<h3> Results Management: </h3>
 View quiz results at the end.
 Option to save results as a text file for future reference.
 
-## Project Structure
+<h2> Project Structure </h2>
 
 SuperQuiz/
 │
@@ -30,9 +31,9 @@ SuperQuiz/
 │   └── MyQuiz.xml          # Example quiz file (replace or add your own)
 └── README.md               # Project documentation (this file)
 
-## XML Quiz File Format
+<h2> XML Quiz File Format </h2>
 Each quiz is represented by an XML file within the Quizzes/ folder. Below is a sample structure of a quiz XML file:
-
+<code>
 <QuizML name="General Knowledge Quiz">
     <Description>A quiz to test your general knowledge.</Description>
     <Question type="tf" points="5">
@@ -46,6 +47,7 @@ Each quiz is represented by an XML file within the Quizzes/ folder. Below is a s
         <Answer name="d">Rome</Answer>
     </Question>
 </QuizML>
+</code>
 QuizML: Root tag for a quiz. name attribute defines the quiz title.
 Description: Brief summary of the quiz.
 Question: Contains a question of type "tf" (True/False) or "multichoice".
